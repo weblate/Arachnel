@@ -28,17 +28,17 @@
     <message>
         <location filename="../qml/app/AppUpdateProgressOverlay.qml" line="+42"/>
         <source>Downloading Arachnel update…</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement Mise à jour Arachnel</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Please wait. The installer will open automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez patienter. Le programme d&apos;installation va s&apos;ouvrir automatiquement.</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Starting…</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;est parti…</translation>
     </message>
 </context>
 <context>
@@ -46,22 +46,22 @@
     <message>
         <location filename="../qml/components/AppUpdateSheet.qml" line="+31"/>
         <source>Update available</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour disponible</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Arachnel %1 is ready to install. Update now to get the latest fixes and features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arachnel %1 est prêt à être installé. Effectuez la mise à jour dès maintenant pour bénéficier des derniers correctifs et des nouvelles fonctionnalités.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Current version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version actuelle&#xa0;: %1</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus tard</translation>
     </message>
     <message>
         <location line="+8"/>
